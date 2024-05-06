@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-./.idea
+.idea/
+database.json
 
 ### Eclipse ###
 .apt_generated

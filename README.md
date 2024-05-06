@@ -58,7 +58,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 
-[![Demo][product-screenshot]](https://example.com)
+![Demo][product-screenshot]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
